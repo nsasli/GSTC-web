@@ -12,10 +12,10 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Reporting',
-    summary: 'Stay on top of things with always up-to-date reporting features.',
+    name: 'Certification For Hotels',
+    summary: 'Becoming Certified as a Sustainable Hotel/Accommodation.',
     description:
-      'We talked about reporting in the section above but we needed three items here, so mentioning it one more time for posterity.',
+      'Increasingly, travelers and your fellow travel provider clients are seeking confirmation that sustainability practices are in place (Booking.com Sustainability Report 2021). Also increasingly, travel companies are looking for a product that is not only certified sustainable, but certified sustainable by a Certification Body that is GSTC Accredited (Trivago recommendation).',
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -46,11 +46,11 @@ const features = [
     },
   },
   {
-    name: 'Inventory',
+    name: 'Certification For Tour Operator',
     summary:
-      'Never lose track of what’s in stock with accurate inventory tracking.',
+      'Why Become a Certified Tour Operator?.',
     description:
-      'We don’t offer this as part of our software but that statement is inarguably true. Accurate inventory tracking would help you for sure.',
+      'Being certified by an Accredited Certification Body (CB) means that your operations comply with the highest social and environmental standards on the market. As public concern grows about the harmful effects and the positive impacts of travel and tourism, certification provides a credible solution to complex environmental and social issues.',
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -74,9 +74,9 @@ const features = [
     },
   },
   {
-    name: 'Contacts',
+    name: 'Certification For Destination',
     summary:
-      'Organize all of your contacts, service providers, and invoices in one place.',
+      'Why Become a Certified Destination?.',
     description:
       'xxxxxxxxxxxxxxxxxxxcdshflshfgshflghsfhgojsdfgsdlh.',
     image: screenshotContacts,
