@@ -6,53 +6,49 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'What is GSTC?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'GSTC, or Global Sustainable Tourism Council, is an organization that develops global standards for sustainable tourism and provides certification for destinations, hotels, and tour operators that comply with these standards.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'Why is it important to have sustainable tourism standards?',
+      answer: 'Sustainable tourism standards help reduce the negative impacts of tourism on the environment, local cultures, and economies. They also promote socially and environmentally responsible practices and enhance tourist experiences.',
     },
     {
-      question: 'How do I apply for a job at TaxPal?',
+      question: 'How does GSTC influence the tourism industry?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
+        'GSTC influences the tourism industry by promoting sustainable practices through certification and advocacy. It encourages positive changes in how destinations and tourism businesses operate.',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'What are GSTC primary focuses in sustainable tourism development?',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'GSTC focuses on ensuring that tourism activities support environmental protection, respect local cultures, and provide fair economic benefits to local communities.',
     },
     {
       question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+        'How can a destination or tourism business obtain GSTC certification?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'To obtain GSTC certification, a destination or tourism business must align its practices with the criteria set by GSTC. The process involves independent evaluation of compliance with the established standards.',
     },
     {
       question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
+        'How does GSTC develop sustainable tourism standards?',
       answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'GSTC develops sustainable tourism standards through a rigorous process involving input from experts, stakeholders, and public consultation. These standards aim to address environmental, socio-cultural, and economic aspects of tourism sustainability.',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: 'How does GSTC collaborate with governments and other organizations to promote sustainable tourism?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        'GSTC collaborates with governments, NGOs, and industry stakeholders to advocate for policies that promote sustainable tourism. It provides guidance and support for destinations and businesses to integrate sustainability into their operations and policies.',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
-    },
-    {
-      question: 'I lost my password, how do I get into my account?',
+      question: 'sdfsdfbshdcknsgvkhlfdgdnvllh?',
       answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        'xxxxxxxxxxxxxxxxxxxxxxxxxx.',
     },
   ],
 ]
