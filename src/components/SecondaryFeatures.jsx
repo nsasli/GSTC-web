@@ -78,7 +78,7 @@ const features = [
     summary:
       'Organize all of your contacts, service providers, and invoices in one place.',
     description:
-      'This also isn’t actually a feature, it’s just some friendly advice. We definitely recommend that you do this, you’ll feel really organized and professional.',
+      'xxxxxxxxxxxxxxxxxxxcdshflshfgshflghsfhgojsdfgsdlh.',
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
@@ -221,8 +221,7 @@ export function SecondaryFeatures() {
             Simplify everyday business tasks.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Because you’d probably be a little confused if we suggested you
-            complicate your everyday business tasks instead.
+          GSTC followers receive once a month updates of important developments and opportunities
           </p>
         </div>
         <FeaturesMobile />
